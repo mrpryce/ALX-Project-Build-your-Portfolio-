@@ -1,11 +1,13 @@
 # ALX-Project-Build-your-Portfolio-ChatGPT-Clone
 
-
 Foundation Project
-ChatGPT-lone
+ChatGPT-Clone
+
 This web page is hosted here!
+
 Features:
 User-friendly
+
 Displays output content 
 Responsive, on all devices
 Features to be added:
